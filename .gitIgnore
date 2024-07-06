@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REACT_NATIVE_PACKAGER_ROOT
+.react-native-packager-root
+
+# API keys and other sensitive data
+*.key
+*.pem
+
+# SASS cache
+.sass-cache/
+
+# Editors and IDEs
+.vscode/
+.idea/
